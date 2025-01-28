@@ -1,0 +1,6 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex08\ex08\bin\Debug\ex08.exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex08\ex08\bin\Debug\ex08.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex08\ex08\bin\Debug\ex08.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex08\ex08\obj\Debug\ex08.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex08\ex08\obj\Debug\ex08.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex08\ex08\obj\Debug\ex08.pdb

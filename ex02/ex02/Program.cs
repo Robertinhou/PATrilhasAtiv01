@@ -2,7 +2,7 @@
  * Created by SharpDevelop.
  * User: Aluno_Manha
  * Date: 28/01/2025
- * Time: 07:47
+ * Time: 08:15
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
@@ -16,7 +16,7 @@ namespace ex02
 		{
 			double num;
 			Console.WriteLine("Digite um número:");
-			num = Convert.ToInt32(Console.ReadLine());
+			num = Convert.ToDouble(Console.ReadLine());
 			
 			Console.WriteLine("O número é: "+ num);
 			

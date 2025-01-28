@@ -1,0 +1,6 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex09\ex09\obj\Debug\ex09.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex09\ex09\bin\Debug\ex09.exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex09\ex09\bin\Debug\ex09.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex09\ex09\bin\Debug\ex09.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex09\ex09\obj\Debug\ex09.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex09\ex09\obj\Debug\ex09.pdb
