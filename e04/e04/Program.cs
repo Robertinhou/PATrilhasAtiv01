@@ -18,11 +18,11 @@ namespace e04
 			string escolha;
 			Console.WriteLine("sim ou não?");
 			
-			escolha = Console.ReadLine();
+			escolha = Console.ReadLine().ToLower();
 			
-			check = (escolha == "sim" || escolha == "Sim" || escolha == "SIM") ? true : false;
+			check = (escolha == "sim") ? true : false;
 			
-			Console.WriteLine(check);
+			Console.WriteLine("Resultado: "+check);
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
 		}
